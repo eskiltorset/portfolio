@@ -25,7 +25,7 @@
   color: #f1f5f9;
   padding: 0.5em 1em;
   border-radius: 6px;
-  box-shadow: 0 6px 10px rgba(225, 29, 72, 0.5),
+  box-shadow: 0 3px 30px rgba(225, 29, 72, 0.5),
     0 6px 6px rgba(225, 29, 72, 0.5), 0 0 100px -10px var(--clr-rose);
   transition: transform 0.3s, box-shadow 0.3s;
 }
